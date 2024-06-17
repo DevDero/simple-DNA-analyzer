@@ -1,8 +1,7 @@
 
 # Simple DNA Analyzer
 
-A simple program consisting of an interface visualizing 2D DNA strands and analyse basic infromation about their content.
-
+A simple program consisting of an interface to visualize 2D DNA strands and analyze basic information about their content.
 
 ## Features
 
